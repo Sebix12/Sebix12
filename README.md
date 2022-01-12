@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sebix12
+- 👀 I’m interested in ... informatics, Electricity
+- 🌱 I’m currently learning ... informatics, and electrical engineering
