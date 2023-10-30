@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sebix12
-- 👀 I’m interested in ... informatics, Electricity
-- 🌱 I’m currently learning ... informatics, and electrical engineering
+- 👀 I’m interested in ... Server Hardware, Back- and frontend coding, AI & electrical engineering
+- 🌱 I’m currently learning ... neural networks & network logic
