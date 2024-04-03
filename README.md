@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sebix12
 - 👀 I’m interested in ... Server Hardware, Back- and frontend coding, AI & electrical engineering
-- 🌱 I’m currently learning ... neural networks & network logic
+- 🌱 I’m currently learning ... neural networks & network logic, clusters
